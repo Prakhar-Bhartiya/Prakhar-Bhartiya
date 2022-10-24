@@ -47,12 +47,12 @@ WebAR, Vuforia, ARKit, ARCore, AR.js, Wikitude, Varjo | TensorFlow, Keras, PyTor
 - [BrainNet](https://github.com/Prakhar-Bhartiya/BrainNet) : Android application to solve the issue of biometric liveness detection from an EEG dataset.<br>
 - [Stellar Variability Investigation in VR](https://github.com/Prakhar-Bhartiya/Pixel_NASA-Stellar-Variability-Investigation-in-VR) : NASA - TESS data investigation in VR for Exoplanet discover + Stellar Variability.
 - [Best Buy](https://github.com/Prakhar-Bhartiya/Pixi_Best_Buy) : Visualise commercial product data in AR on product by scanning barcode.
-- [Project Trash](https://github.com/Prakhar-Bhartiya/Project-Trash) : 
-- [ShopAR](https://github.com/Prakhar-Bhartiya/ShopAR) : 
-- [Twitter Sentiment Analysis](https://github.com/Prakhar-Bhartiya/SentimentAnalysis) :
-- [Image Retrival System](https://github.com/Prakhar-Bhartiya/Image-Retrieval-System) :
-- [EMNIST Evaluation](https://github.com/Prakhar-Bhartiya/EMNIST_evaluation_CSE598_Project) :
-- [Virtual Piano](https://github.com/Prakhar-Bhartiya/Virtual_piano) : 
+- [Project Trash](https://github.com/Prakhar-Bhartiya/Project-Trash) : Built a CNN model (Resnet101 variant) for garbage classification and volume estimation. Also accurately mapped and visualized data using heat maps. Citizens can provide an image dataset, later used by local municipalities.
+- [ShopAR](https://github.com/Prakhar-Bhartiya/ShopAR) : Try apparels on your 3D model(using single picture) before buying online in Augmented Reality.
+- [Depression Detection using Sentiment Analysis of social media](https://github.com/Prakhar-Bhartiya/SentimentAnalysis) : Formulated a machine learning model to analyse thousands of Twitter tweets, to predict people’s sentiment by the correlation between emotions and specific linguistic features.
+- [Image Retrival System](https://github.com/Prakhar-Bhartiya/Image-Retrieval-System) : Developed an image retrieval system. Color Moments, LBP, and HOG are examples of implemented feature extraction methods. Then, using techniques like PCA, LDA, SVD, and K-means, reduce the dimensionality to the top K features. Decision Tree, SVM, and Personalised PageRank classifiers were used to classify the data.
+- [EMNIST Evaluation](https://github.com/Prakhar-Bhartiya/EMNIST_evaluation_CSE598_Project) : Variants in the Extended MNIST dataset were subjected to in-depth analysis. I was able to achieve comparable accuracy to state-of-the-art models using a simple Conv2D CNN model and precise hyperparameter tuning.
+- [Virtual Piano](https://github.com/Prakhar-Bhartiya/Virtual_piano) : Play piano from any plane surface using Mediapipe Hand tracking system.
 - 
 ---
 
