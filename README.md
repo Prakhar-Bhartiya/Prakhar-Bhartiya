@@ -42,7 +42,7 @@ WebAR, Vuforia, ARKit, ARCore, AR.js, Wikitude, Varjo | TensorFlow, Keras, PyTor
 
 ---
 
-### :hammer_and_wrench: Projects :
+### ✨: Projects :
 
 - [Virtual Piano](https://github.com/Prakhar-Bhartiya/Virtual_piano) : Play piano from any plane surface using Mediapipe Hand tracking system.
 - [Stellar Variability Investigation in VR](https://github.com/Prakhar-Bhartiya/Pixel_NASA-Stellar-Variability-Investigation-in-VR) : NASA - TESS data investigation in VR for Exoplanet discover + Stellar Variability.
