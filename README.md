@@ -37,12 +37,12 @@ I am a developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-WebAR, Vuforia, ARKit, ARCore, AR.js, Wikitude, Varjo | TensorFlow, Keras, PyTorch, Scikit-learn, Matplotlib, Pandas, NumPy | C Programming, C++, Python, SQL, C# | HTML5, CSS3, JavaScript, Three.js | OpenCV, OCR, YOLOv3 | Unity, SketchUp, Blender, Adobe Illustrator, Handbrake, Axure
+WebAR, Vuforia, ARKit, ARCore, AR.js, Wikitude, Varjo &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; TensorFlow, Keras, PyTorch, Scikit-learn, Matplotlib, Pandas, NumPy &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; C, C++, C#, Python, JavaScript &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; HTML5, CSS3, Three.js &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; OpenCV, OCR, YOLOv3 | Unity, SketchUp, Blender, Adobe Illustrator, Handbrake, Axure
 
 
 ---
 
-### ✨: Projects :
+### ✨ Projects :
 
 - [Virtual Piano](https://github.com/Prakhar-Bhartiya/Virtual_piano) : Play piano from any plane surface using Mediapipe Hand tracking system.
 - [Stellar Variability Investigation in VR](https://github.com/Prakhar-Bhartiya/Pixel_NASA-Stellar-Variability-Investigation-in-VR) : NASA - TESS data investigation in VR for Exoplanet discover + Stellar Variability.
