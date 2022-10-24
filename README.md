@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ---
 
 ### :man_technologist: About Me :
-I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> love to solve a problem in any domain.
+I am a developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> that enjoys brainstorming and attempting to solve problems in many varieties of fields.
 - Study : Pursuing Master's in Computer Science  @ [ASU](https://www.asu.edu)
 - Work : Currently working as Creative XR Developer @ [Meteor Studio ASU](https://meteor.ame.asu.edu)
 - Area : Augmented Reality, Virtual Reality, Mixed/Extended Reality, Game Developement, Machine Learning, Artificial Intelligence, Computer Vision, UI/UX, Data Visualization, Full-stack(intermediate)
