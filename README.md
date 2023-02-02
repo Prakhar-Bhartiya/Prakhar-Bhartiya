@@ -33,7 +33,6 @@ I am a developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 - Study : Pursuing Master's in Computer Science  @ [ASU](https://www.asu.edu)
 - Work : Currently working as Creative XR Developer @ [Meteor Studio ASU](https://meteor.ame.asu.edu)
 - Area : Augmented Reality, Virtual Reality, Mixed/Extended Reality, Game Developement, Machine Learning, Artificial Intelligence, Computer Vision, UI/UX, Data Visualization, Full-stack(intermediate)
-- Currently working on building a [Python Framework for Augmented Reality](https://github.com/Prakhar-Bhartiya/Python-AR) 🤩. Any suggestions, ideas, or collaborations are greatly appreciated❤️. 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
