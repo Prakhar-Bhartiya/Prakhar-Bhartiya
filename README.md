@@ -38,7 +38,7 @@ I am a developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 ### :hammer_and_wrench: Languages and Tools :
 WebAR, Vuforia, ARKit, ARCore, AR.js, Wikitude &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; TensorFlow, Keras, PyTorch, Scikit-learn, Matplotlib, Pandas, NumPy &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; C, C++, C#, Python, JavaScript &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; HTML5, CSS3, Three.js &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; OpenCV, OCR, YOLOv3 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Unity, SketchUp, Blender, Adobe Illustrator, Handbrake, Axure
 <br>
-Hardware : Varjo XR-3(MR), Meta Quest 2(VR), Pico Neo 3 Pro(VR), iOS(AR + WebAR), Android(AR + WebAR), Leap Motion, Arduino, Raspberry pi
+Hardware : Varjo XR-3(MR), Meta Quest 2(VR), Pico Neo 3 Pro(VR), Microsoft Hololensem iOS, Android, Leap Motion, Arduino, Raspberry pi
 
 ---
 
