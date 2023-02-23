@@ -59,7 +59,3 @@ Hardware : Varjo XR-3(MR), Meta Quest 2(VR), Pico Neo 3 Pro(VR), Microsoft Holol
 - MUnix : Mobile + UNIX = MUNIX is a featured phone interface build on a UNIX system using command and Perl scripting for implementing various features of the phone. 
 ---
 
-### :fire: My Stats :
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prakhar-bhartiya&theme=dark&background=000000)<br>
-<img src="https://komarev.com/ghpvc/?username=prakhar-bhartiya&style=flat-square&color=blue" alt=""/>
-
