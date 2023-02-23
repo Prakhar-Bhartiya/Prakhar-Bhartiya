@@ -61,6 +61,5 @@ Hardware : Varjo XR-3(MR), Meta Quest 2(VR), Pico Neo 3 Pro(VR), iOS(AR + WebAR)
 
 ### :fire: My Stats :
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prakhar-bhartiya&theme=dark&background=000000)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar-bhartiya&layout=compact&theme=vision-friendly-dark) <br>
 <img src="https://komarev.com/ghpvc/?username=prakhar-bhartiya&style=flat-square&color=blue" alt=""/>
 
