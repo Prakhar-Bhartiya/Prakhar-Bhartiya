@@ -46,7 +46,7 @@ Hardware : Varjo XR-3(MR), Meta Quest 2(VR), Pico Neo 3 Pro(VR), Microsoft Holol
 
 - [Virtual Piano](https://github.com/Prakhar-Bhartiya/Virtual_piano) : Play piano from any plane surface using Mediapipe Hand tracking system.
 - [Stellar Variability Investigation in VR](https://github.com/Prakhar-Bhartiya/Pixel_NASA-Stellar-Variability-Investigation-in-VR) : NASA - TESS data investigation in VR for Exoplanet discover + Stellar Variability.
-
+- [Breast Cancer Detection](https://github.com/Prakhar-Bhartiya/Breast_Cancer_Detection) : Brease cancer detection and visualization.
 
 - [BrainNet](https://github.com/Prakhar-Bhartiya/BrainNet) : Android application to solve the issue of biometric liveness detection from an EEG dataset.
 - [EMNIST Evaluation](https://github.com/Prakhar-Bhartiya/EMNIST_evaluation_CSE598_Project) : Variants in the Extended MNIST dataset were subjected to in-depth analysis. I was able to achieve comparable accuracy to state-of-the-art models using a simple Conv2D CNN model and precise hyperparameter tuning.
