@@ -36,11 +36,11 @@ I am a developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-Programming Language: C, C++, C#, Python, HTML, CSS, JavaScript, SQL<br>
-Developer Tools: Git, VS Code, Unity3D, Blender, SketchUp, AxureRP<br>
-SDKs: WebXR, Vuforia, ARKit, ARCore, Wikitude, OpenXR, AR.js, Three.js, OpenGL<br>
-Libraries: TensorFlow, Keras, PyTorch, Scikit-learn, Matplotlib, Pandas, NumPy, OpenCV, OCR, YOLOv3<br>
-Hardware: Quest2, Pico Neo3, Varjo XR-3, Raspberry Pi, Arduino
+- Programming Language -----> C, C++, C#, Python, HTML, CSS, JavaScript, SQL<br>
+- Developer Tools -----> Git, VS Code, Unity3D, Blender, SketchUp, AxureRP<br>
+- SDKs -----> WebXR, Vuforia, ARKit, ARCore, Wikitude, OpenXR, AR.js, Three.js, OpenGL<br>
+- Libraries -----> TensorFlow, Keras, PyTorch, Scikit-learn, Matplotlib, Pandas, NumPy, OpenCV, OCR, YOLOv3<br>
+- Hardware -----> Meta Quest2, Meta Quest Pro, Pico Neo 3, Varjo XR-3, Raspberry Pi, Arduino
 
 ---
 
