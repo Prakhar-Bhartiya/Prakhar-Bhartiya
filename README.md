@@ -54,8 +54,8 @@ I am a developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 - [Best Buy](https://github.com/Prakhar-Bhartiya/Pixi_Best_Buy) : Visualise commercial product data in AR on product by scanning barcode.
 - [Project Trash](https://github.com/Prakhar-Bhartiya/Project-Trash) : Built a CNN model (Resnet101 variant) for garbage classification and volume estimation. Also accurately mapped and visualized data using heat maps. Citizens can provide an image dataset, later used by local municipalities.
 - [ShopAR](https://github.com/Prakhar-Bhartiya/ShopAR) : Try apparels on your 3D model(using single picture) before buying online in Augmented Reality.
+- [AR Assist](https://github.com/Prakhar-Bhartiya/AR-Assist) : Augmented reality training program for manufacturing products.
 - ProHelm : Smart biker's helmet with XR (Extended Reality) System for visual assistance in navigation(HUD). Extended augmented reality-based display effects were achieved by reflecting a mini projector onto the translucent helmet visor at a certain angle. Results provide a hands-free and distraction less biking experience.
-- AR Assist : Augmented reality training program for manufacturing products.
 - MUnix : Mobile + UNIX = MUNIX is a featured phone interface build on a UNIX system using command and Perl scripting for implementing various features of the phone. 
 ---
 
