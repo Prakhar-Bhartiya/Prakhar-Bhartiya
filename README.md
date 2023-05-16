@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 I am a developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> that enjoys brainstorming and attempting to solve problems in many varieties of fields.
-- Study : Pursuing Master's in Computer Science  @ [ASU](https://www.asu.edu)
-- Work : Currently working as Creative XR Developer @ [Meteor Studio ASU](https://meteor.ame.asu.edu)
+- Study : Master's in Computer Science  @ [ASU](https://www.asu.edu)
+- Work : Currently looking for full-time roles.
 - Area : Augmented Reality, Virtual Reality, Mixed/Extended Reality, Game Developement, Machine Learning, Artificial Intelligence, Computer Vision, UI/UX, Data Visualization, Full-stack(intermediate)
 ---
 
@@ -40,7 +40,7 @@ I am a developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 - Developer Tools -----> Git, VS Code, Unity3D, Blender, SketchUp, AxureRP<br>
 - SDKs -----> WebXR, Vuforia, ARKit, ARCore, Wikitude, OpenXR, AR.js, Three.js, OpenGL<br>
 - Libraries -----> TensorFlow, Keras, PyTorch, Scikit-learn, Matplotlib, Pandas, NumPy, OpenCV, OCR, YOLOv3<br>
-- Hardware -----> Meta Quest2, Meta Quest Pro, Pico Neo 3, Varjo XR-3, Raspberry Pi, Arduino
+- Hardware -----> Meta Quest2, Meta Quest Pro, Pico Neo 3, Varjo XR-3, Microsoft Hololense, Raspberry Pi, Arduino
 
 ---
 
