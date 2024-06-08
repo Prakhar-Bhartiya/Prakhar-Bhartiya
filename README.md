@@ -33,7 +33,6 @@ I am a developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 <!--- - Study : Master's in Computer Science  @ [ASU](https://www.asu.edu) --->
 - Work : Creative Technologist @Madlabs.
 - Area : GenAI, Augmented Reality, Virtual Reality, Mixed/Extended Reality, Game Developement, Machine Learning, Artificial Intelligence, Computer Vision, UI/UX, Data Visualization, Full-stack
----
 
 <!---
 ### :hammer_and_wrench: Languages and Tools :
@@ -46,6 +45,7 @@ I am a developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 ---
 
 ### ✨ Personal Projects :
+- [RateMyProfessor-Database-APIs](https://pypi.org/project/RateMyProfessor-Database-APIs/) : Python PyPI package for RateMyProfessor.com database scrapper.
 - [Virtual Piano](https://github.com/Prakhar-Bhartiya/Virtual_piano) : Play piano from any plane surface using Mediapipe Hand tracking system.
 - [Stellar Variability Investigation in VR](https://github.com/Prakhar-Bhartiya/Pixel_NASA-Stellar-Variability-Investigation-in-VR) : NASA - TESS data investigation in VR for Exoplanet discover + Stellar Variability.
 - [Breast Cancer Detection](https://github.com/Prakhar-Bhartiya/Breast_Cancer_Detection) : Brease cancer detection and visualization.
