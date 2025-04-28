@@ -47,12 +47,12 @@ I am a developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 ### ✨ Personal Projects :
 - [RateMyProfessor-Database-APIs](https://pypi.org/project/RateMyProfessor-Database-APIs/) : Python PyPI package [![PyPI Downloads](https://static.pepy.tech/badge/ratemyprofessor-database-apis)](https://pepy.tech/projects/ratemyprofessor-database-apis) for RateMyProfessor.com database scrapper.
+- [EMNIST Deep dive](https://github.com/Prakhar-Bhartiya/EMNIST_evaluation_CSE598_Project) : Variants in the Extended MNIST dataset were subjected to in-depth analysis. I was able to achieve comparable(+/- 1%) accuracy to state-of-the-art models using a simple Conv2D CNN model and precise hyperparameter tuning.
+- [Breast Cancer Detection](https://github.com/Prakhar-Bhartiya/Breast_Cancer_Detection) : Brease cancer detection and visualization.
+- [BrainNet](https://github.com/Prakhar-Bhartiya/BrainNet) : Android application to solve the issue of biometric liveness detection from an EEG dataset.
 - [Python-AR](https://github.com/Prakhar-Bhartiya/Python-AR) : Augmented Reality library in python using OpenCV from scratch.
 - [Virtual Piano](https://github.com/Prakhar-Bhartiya/Virtual_piano) : Play piano from any plane surface using Mediapipe Hand tracking system.
 - [Stellar Variability Investigation in VR](https://github.com/Prakhar-Bhartiya/Pixel_NASA-Stellar-Variability-Investigation-in-VR) : NASA - TESS data investigation in VR for Exoplanet discover + Stellar Variability.
-- [Breast Cancer Detection](https://github.com/Prakhar-Bhartiya/Breast_Cancer_Detection) : Brease cancer detection and visualization.
-- [BrainNet](https://github.com/Prakhar-Bhartiya/BrainNet) : Android application to solve the issue of biometric liveness detection from an EEG dataset.
-- [EMNIST Evaluation](https://github.com/Prakhar-Bhartiya/EMNIST_evaluation_CSE598_Project) : Variants in the Extended MNIST dataset were subjected to in-depth analysis. I was able to achieve comparable accuracy to state-of-the-art models using a simple Conv2D CNN model and precise hyperparameter tuning.
 - [Depression Detection using Sentiment Analysis of social media](https://github.com/Prakhar-Bhartiya/SentimentAnalysis) : Formulated a machine learning model to analyse thousands of Twitter tweets, to predict people’s sentiment by the correlation between emotions and specific linguistic features.
 - [Best Buy](https://github.com/Prakhar-Bhartiya/Pixi_Best_Buy) : Visualise commercial product data in AR on product by scanning barcode.
 - [Project Trash](https://github.com/Prakhar-Bhartiya/Project-Trash) : Built a CNN model (Resnet101 variant) for garbage classification and volume estimation. Also accurately mapped and visualized data using heat maps. Citizens can provide an image dataset, later used by local municipalities.
