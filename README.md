@@ -46,6 +46,7 @@ I am a developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 ### ✨ Personal Projects :
 - [RateMyProfessor-Database-APIs](https://pypi.org/project/RateMyProfessor-Database-APIs/) : Python PyPI package [![PyPI Downloads](https://static.pepy.tech/badge/ratemyprofessor-database-apis)](https://pepy.tech/projects/ratemyprofessor-database-apis) for RateMyProfessor.com database scrapper.
+- [Python-AR](https://github.com/Prakhar-Bhartiya/Python-AR) : Augmented Reality library in python using OpenCV from scratch.
 - [Virtual Piano](https://github.com/Prakhar-Bhartiya/Virtual_piano) : Play piano from any plane surface using Mediapipe Hand tracking system.
 - [Stellar Variability Investigation in VR](https://github.com/Prakhar-Bhartiya/Pixel_NASA-Stellar-Variability-Investigation-in-VR) : NASA - TESS data investigation in VR for Exoplanet discover + Stellar Variability.
 - [Breast Cancer Detection](https://github.com/Prakhar-Bhartiya/Breast_Cancer_Detection) : Brease cancer detection and visualization.
