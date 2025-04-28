@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 I am a developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> that enjoys brainstorming and attempting to solve problems in many varieties of fields.
 <!--- - Study : Master's in Computer Science  @ [ASU](https://www.asu.edu) --->
 - Work : Creative Technologist @Madlabs.
-- Area : GenAI, Augmented Reality, Virtual Reality, Mixed/Extended Reality, Game Developement, Machine Learning, Artificial Intelligence, Computer Vision, UI/UX, Data Visualization, Full-stack
+- Current Focus : LLMs
+- Area of Interest : Machine Learning, Artificial Intelligence(Traditional + Generative ❤️) , Computer Vision, Augmented Reality, Virtual Reality, Mixed/Extended Reality, Data Visualization
 
 <!---
 ### :hammer_and_wrench: Languages and Tools :
