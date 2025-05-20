@@ -46,6 +46,7 @@ I am a developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 ---
 
 ### ✨ Personal Projects :
+- [llm-finetune-playground](https://github.com/Prakhar-Bhartiya/llm-finetune-playground.git) : Fine-tune LLMs with Full, LoRA, and QLoRA—plus built-in A/B testing, evaluations, and a chat UI.
 - [RateMyProfessor-Database-APIs](https://pypi.org/project/RateMyProfessor-Database-APIs/) : Python PyPI package [![PyPI Downloads](https://static.pepy.tech/badge/ratemyprofessor-database-apis)](https://pepy.tech/projects/ratemyprofessor-database-apis) for RateMyProfessor.com database scrapper.
 - [EMNIST Deep dive](https://github.com/Prakhar-Bhartiya/EMNIST_evaluation_CSE598_Project) : Variants in the Extended MNIST dataset were subjected to in-depth analysis. I was able to achieve comparable(+/- 1%) accuracy to state-of-the-art models using a simple Conv2D CNN model and precise hyperparameter tuning.
 - [Breast Cancer Detection](https://github.com/Prakhar-Bhartiya/Breast_Cancer_Detection) : Brease cancer detection and visualization.
